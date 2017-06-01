@@ -8,5 +8,5 @@ Rails.application.routes.draw do
   # their current board state
   root 'omnivision#index'
 
-	get '/search', to: 'omnivision#search'
+  get '/search', to: 'omnivision#search'
 end
