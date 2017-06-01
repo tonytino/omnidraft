@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   # what your opponent could play with
   # their current board state
   root 'omnivision#index'
+
+	get '/search', to: 'omnivision#search'
 end
