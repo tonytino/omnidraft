@@ -6,7 +6,14 @@
 
 * System dependencies
 
-`rails 5.1, webpacker, react, yarn, mysql2, mtg-sdk`
+```
+rails 5.1
+webpacker
+react
+yarn
+mysql2
+mtg-sdk
+```
 
 * Configuration
 
